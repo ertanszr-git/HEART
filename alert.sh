@@ -4,7 +4,7 @@ while true; do
 	log=/var/log/http.txt
 	if [ -n $log ]; then
 		zaman=$(date)
-		echo $zaman 404 Bulundu >> /var/log/alert.txt
+		echo $zaman 404 Found >> /var/log/alert.txt
 		continue
 	else
 		continue
