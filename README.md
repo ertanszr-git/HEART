@@ -1,4 +1,4 @@
-# HTTP Error Alert Recording Tool - HEART
+# HTTP Error Alert and Recording Tool - HEART
 
 HEART is a script for monitoring port 80 (HTTP port) and recording all HTTP errors.
 
