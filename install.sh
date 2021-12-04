@@ -1,6 +1,6 @@
 sudo apt install tcpdump
-cp HEART /usr/bin
-cd /usr/bin/HEART
-sudo chmod 777 heart.sh
+cp heart /usr/bin
+cd /usr/bin/
+sudo chmod 777 heart
 cd /usr/share
 git clone https://github.com/rotherda/HEART
