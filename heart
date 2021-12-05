@@ -1,4 +1,0 @@
-cd /usr/share
-cd HEART
-chmod 777 heart.sh
-./heart.sh
