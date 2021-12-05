@@ -16,7 +16,7 @@ chmod 777 install.sh
 ## Usage
 
 ```bash
-heart
+./heart.sh
 ```
 
 ## Contributing
