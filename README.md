@@ -7,7 +7,7 @@ HEART is a script for monitoring port 80 (HTTP port) and recording all HTTP erro
 You have to use Debian based distributions for this script.
 
 ```bash
-git clone https://github.com/rotherda/HEART
+git clone https://github.com/ertanszr-git/HEART
 cd HEART
 chmod 777 install.sh
 ./install.sh
