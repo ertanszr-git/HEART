@@ -1,5 +1,5 @@
 sudo apt install tcpdump
-sudo apt dos2unix
+sudo apt install dos2unix
 cp heart /usr/bin
 cd /usr/bin/
 sudo chmod 777 heart
