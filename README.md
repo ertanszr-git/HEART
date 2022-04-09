@@ -9,7 +9,7 @@ You have to use Debian based distributions for this script.
 ```bash
 git clone https://github.com/ertanszr-git/HEART
 cd HEART
-chmod 777 install.sh
+chmod 500 install.sh
 ./install.sh
 ```
 
